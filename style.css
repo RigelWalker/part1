@@ -17,8 +17,13 @@ div {
 }
 
 #container {
+<<<<<<< HEAD
   font-family: Caveat;
   width: 550px;
+=======
+  font-family: UnifrakturMaguntia;
+  width: 350px;
+>>>>>>> 1e4b688ce4de0396956a4222750ee84e39804e9d
   height: 70%;
   max-height: 500px;
   top: 50%;
